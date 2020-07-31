@@ -1,2 +1,2 @@
 # SpamAssasin-NLP
-This repository contains the files for a Spam predictor
+This notebook and projects are focused on the exploration of Ham and Spam emails from SpamAssasin provided at https://www.kaggle.com/veleon/ham-and-spam-dataset - the dataset contains several email files all readable by Python Email library. The project goes from the data importing, exploration, determining commonly used words in Spam emails, training some models based on the files provided in order to find the best that fits the data and finally start predicting.
